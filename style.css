@@ -1,0 +1,28 @@
+.parent{
+    background: red;
+
+}
+
+div {
+    display: block;
+}
+.child{
+    padding: 3px;
+    width: 10%;
+}
+
+.child-one{
+    background: yellow;
+    // position: relative;
+    // top: 10px;
+    position: absolute;
+}
+
+.child-two{
+    background: orange;
+
+}
+
+.child-three{
+    background: green;
+}

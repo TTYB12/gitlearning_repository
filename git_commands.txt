@@ -1,0 +1,12 @@
+git init
+git add <file>
+git status
+git commit
+git push
+git pull
+git clone
+
+git config --global user.name 'XXX'
+git config --global user.email 'XXX@xxx.com'
+
+git rm --cached <file>  // to undo git add
