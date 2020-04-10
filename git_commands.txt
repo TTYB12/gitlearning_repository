@@ -10,3 +10,8 @@ git config --global user.name 'XXX'
 git config --global user.email 'XXX@xxx.com'
 
 git rm --cached <file>  // to undo git add
+
+
+git add *.html // git add all the files with html extension
+
+touch .gitignore
