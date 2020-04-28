@@ -30,4 +30,4 @@ ls -ah // to see .git and other invisible files
 
 git diff <file_name> // to see the changes made on the file
 
-
+git log --pretty=oneline
